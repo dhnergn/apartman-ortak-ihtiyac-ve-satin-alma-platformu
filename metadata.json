@@ -1,0 +1,6 @@
+{
+  "name": "Apartman Ortak İhtiyaç ve Satın Alma Platformu",
+  "description": "Apartman, site ve konut topluluklarının ortak ihtiyaçlarını birleştirerek toplu alım ve hizmet teklifleri almasını sağlayan platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
